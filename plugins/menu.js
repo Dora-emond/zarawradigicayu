@@ -8,7 +8,7 @@ let tags = {
   'sticker': 'Sticker',
   'kerang': 'Kerang Ajaib',
   'quotes': 'Quotes',
-  'admin': 'Admin',
+  'admi': 'Admin',
   'group': 'Group',
   'premium': 'Premium',
   'internet': 'Internet',
@@ -44,8 +44,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Terimakasih telah menjadi sahabatku
+│ ya Dora 😇🌀(^_^♪)
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
