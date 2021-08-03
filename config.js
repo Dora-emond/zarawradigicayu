@@ -18,8 +18,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'kuharap kamu bahagia'
-global.author = 'Dora :D'
+global.packname = 'halah babik nyolong mulu 😱'
+global.author = 'Dorabod +62 896-0114-5546'
 
 global.multiplier = 69 // The higher, The harder levelup
 
