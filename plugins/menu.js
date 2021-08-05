@@ -44,8 +44,12 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Terimakasih telah menjadi sahabatku
-│ ya Dora 😇🌀(^_^♪) https://wa.me/6289601145546
+│
+│ hello my name is dora, aku kesepian 
+│ dan marilah berteman denganku, , 
+│ ku humble dan toxic,,, dan hobiku ngebot
+│ jhaaa 🙂😜
+│
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
