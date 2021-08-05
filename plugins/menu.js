@@ -47,7 +47,7 @@ const defaultMenu = {
 │
 │ hello my name is dora, aku kesepian 
 │ dan marilah berteman denganku, , 
-│ ku humble dan toxic,,, dan hobiku ngebot
+│ ku humble dan toxic,,, dan hobiku ngebo
 │ jhaaa 🙂😜
 │
 ╰────
